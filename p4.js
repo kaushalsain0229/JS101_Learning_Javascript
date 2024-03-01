@@ -1,0 +1,18 @@
+var Name;
+Name = "KAUSHAL SAIN";
+var School;
+School = "Masai School";
+var Grade;
+Grade = "A";
+var Section;
+Section = "A";
+var Roll_no;
+Roll_no = "119";
+var Marks;
+Marks = "Maths = 90 , Science = 95 , English = 85";
+console.log(Name);
+console.log(School);
+console.log(Grade);
+console.log(Section);
+console.log(Roll_no);
+console.log(Marks);
